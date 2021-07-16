@@ -7,18 +7,18 @@
         "en": "Local open data catalog"
     },
     "popis": {
-        "cs": "Lokální katalog otevřených dat",
-        "en": "Local open data catalog"
+        "cs": "Ministerstvo pro místní rozvoj",
+        "en": "Ministry of Regional Development"
     },
     "kontaktní_bod": {
         "typ": "Organizace",
         "jméno": {
-          "cs": "Jan Novák",
-          "en": "John Newman"
+          "cs": "Lukáš Vaner",
+          "en": "Lukas Vaner"
         },
-        "e-mail": "mailto:newman@organization.cz"
+        "e-mail": "mailto:opendata@mmr.cz"
     },
     "domovská_stránka": "https://data.gov.cz",
-    "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/66003008",
+    "poskytovatel": "https://mmr.cz",
     "datová_sada": []
 }
