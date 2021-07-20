@@ -1,9 +1,9 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://raw.githubusercontent.com/opendata-mmr/lkod-min/datové-sady/verejne-zakazky-bez-2021.jsonld",
+  "iri": "https://raw.githubusercontent.com/opendata-mmr/lkod-min/datové-sady/verejne-zakazky-form-2021.jsonld",
   "typ": "Datová sada",
   "název": {
-    "cs": "Veřejné zakázky (bez formulářů F16-F19) pro zákon č. 134/2016 Sb."
+    "cs": "Formuláře F16 až F19 veřejných zakázek pro zákon č. 134/2016 Sb."
   },
   "popis": {
     "cs": "Údaje o veřejných zakázkách evidovaných na Věstníku VZ"
@@ -40,8 +40,8 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://www.isvz.cz/ReportingSuite/Explorer/Download/Data/XML/ZZVZ/2021",
-      "přístupové_url": "https://www.isvz.cz/ReportingSuite/Explorer/Download/Data/XML/ZZVZ/2021",
+      "soubor_ke_stažení": "https://www.isvz.cz/ReportingSuite/Explorer/Download/Data/XML/ZZVZMO/2021",
+      "přístupové_url": "https://www.isvz.cz/ReportingSuite/Explorer/Download/Data/XML/ZZVZMO/2021",
       "typ_média": "http://www.iana.org/assignments/media-types/text/xml",
       "formát": "http://publications.europa.eu/resource/authority/file-type/XML"
     }
