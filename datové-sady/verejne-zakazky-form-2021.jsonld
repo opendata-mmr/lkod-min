@@ -32,7 +32,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://raw.githubusercontent.com/opendata-mmr/lkod-min/datové-sady/verejne-zakazky.jsonld/distribuce/0",
+      "iri": "https://raw.githubusercontent.com/opendata-mmr/lkod-min/datové-sady/verejne-zakazky-form-2021.jsonld/distribuce/0",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
