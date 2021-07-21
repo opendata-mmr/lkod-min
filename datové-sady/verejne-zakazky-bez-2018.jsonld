@@ -28,7 +28,7 @@
   ],
   "koncept_euroVoc": [],
   "kontaktní_bod": {},
-  "poskytovatel": "https://raw.githubusercontent.com/opendata-mmr/lkod-min/main/katalog.jsonld",
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/66002222",
   "distribuce": [
     {
       "typ": "Distribuce",
