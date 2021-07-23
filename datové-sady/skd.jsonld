@@ -33,6 +33,9 @@
     {
       "typ": "Distribuce",
       "iri": "https://raw.githubusercontent.com/opendata-mmr/lkod-min/datové-sady/skd.jsonld/distribuce/0",
+      "název": {
+        "cs": "ISVZ"
+      },
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -40,10 +43,17 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://www.isvz.cz/ReportingSuite/Explorer/Download/Data/XML/SKD",
       "přístupové_url": "https://www.isvz.cz/ReportingSuite/Explorer/Download/Data/XML/SKD",
-      "typ_média": "http://www.iana.org/assignments/media-types/text/xml",
-      "formát": "http://publications.europa.eu/resource/authority/file-type/XML"
+      "přístupová_služba": {
+        "typ": "Datová služba",
+        "přístupový_bod": "https://www.isvz.cz/ReportingSuite/Explorer/Download/Data/XML/SKD",
+        "popis_přístupového_bodu": "https://www.isvz.cz/ISVZ/MetodickaPodpora/Napovedaopendata.pdf",
+        "iri": "https://raw.githubusercontent.com/opendata-mmr/lkod-min/datové-sady/skd.jsonld/distribuce/0/přístupová-služba",
+        "název": {
+          "cs": "ISVZ"
+        },
+        "poskytuje_datovou_sadu": "https://raw.githubusercontent.com/opendata-mmr/lkod-min/datové-sady/skd.jsonld"
+      }
     }
   ]
 }
