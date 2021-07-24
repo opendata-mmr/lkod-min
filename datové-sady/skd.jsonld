@@ -40,9 +40,9 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://www.isvz.cz/ReportingSuite/Explorer/Download/Data/XML/SKD/skd.xml",
-      "přístupové_url": "https://www.isvz.cz/ReportingSuite/Explorer/Download/Data/XML/SKD/skd.xml",
-      "typ_média": "http://www.iana.org/assignments/media-types/text/xml",
+      "soubor_ke_stažení": "https://www.isvz.cz/ReportingSuite/Explorer/Download/Data/XML/SKD",
+      "přístupové_url": "https://www.isvz.cz/ReportingSuite/Explorer/Download/Data/XML/SKD",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/xml",
       "formát": "http://publications.europa.eu/resource/authority/file-type/XML"
     }
   ]
