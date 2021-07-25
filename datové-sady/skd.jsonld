@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://raw.githubusercontent.com/opendata-mmr/lkod-min/datové-sady/skd.jsonld",
+  "iri": "https://raw.githubusercontent.com/opendata-mmr/lkod-min/main/datové-sady/skd.jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Seznam kvalifikovaných dodavatelů"
@@ -42,7 +42,7 @@
       },
       "soubor_ke_stažení": "https://www.isvz.cz/ReportingSuite/Explorer/Download/Data/XML/SKD/skd.xml",
       "přístupové_url": "https://www.isvz.cz/ReportingSuite/Explorer/Download/Data/XML/SKD/skd.xml",
-      "typ_média": "http://www.iana.org/assignments/media-types/text/xml",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/xml",
       "formát": "http://publications.europa.eu/resource/authority/file-type/XML"
     }
   ]
