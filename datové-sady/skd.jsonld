@@ -42,7 +42,7 @@
       },
       "soubor_ke_stažení": "https://www.isvz.cz/ReportingSuite/Explorer/Download/Data/XML/SKD",
       "přístupové_url": "https://www.isvz.cz/ReportingSuite/Explorer/Download/Data/XML/SKD",
-      "typ_média": "http://www.iana.org/assignments/media-types/application/xml",
+      "typ_média": "http://www.iana.org/assignments/media-types/text/xml",
       "formát": "http://publications.europa.eu/resource/authority/file-type/XML"
     }
   ]
