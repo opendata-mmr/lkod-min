@@ -43,7 +43,7 @@
       },
       "soubor_ke_stažení": "https://www.mmr.cz/MMR/media/MMR_MediaLib/Ministerstvo/Open%20data/Faktury_2019.csv",
       "přístupové_url": "https://www.mmr.cz/MMR/media/MMR_MediaLib/Ministerstvo/Open%20data/Faktury_2019.csv",
-      "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
+      "typ_média": "http://www.iana.org/assignments/media-types/application/octet-stream",
       "formát": "http://publications.europa.eu/resource/authority/file-type/CSV"
     }
   ]
