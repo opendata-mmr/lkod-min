@@ -1,12 +1,12 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://raw.githubusercontent.com/opendata-mmr/lkod-min/main/datové-sady/zavazne-ukazatele-mmr-2021.jsonld",
+  "iri": "https://raw.githubusercontent.com/opendata-mmr/lkod-min/main/datové-sady/zavazne-ukazatele-mmr-2024.jsonld",
   "typ": "Datová sada",
   "název": {
-    "cs": "Závazné ukazatele MMR na rok 2021"
+    "cs": "Závazné ukazatele MMR na rok 2024"
   },
   "popis": {
-    "cs": "Schválený rozpočet ministerstva pro místní rozvoj"
+    "cs": "Návrh rozpočtu ministerstva pro místní rozvoj"
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
@@ -32,7 +32,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://raw.githubusercontent.com/opendata-mmr/lkod-min/main/datové-sady/zavazne-ukazatele-mmr-2021.jsonld/distribuce/0",
+      "iri": "https://raw.githubusercontent.com/opendata-mmr/lkod-min/main/datové-sady/zavazne-ukazatele-mmr-2024.jsonld/distribuce/0",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -40,8 +40,8 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://www.mmr.cz/MMR/media/MMR_MediaLib/Ministerstvo/Open%20data/zavazne-ukazatele-mmr-2021.csv",
-      "přístupové_url": "https://www.mmr.cz/MMR/media/MMR_MediaLib/Ministerstvo/Open%20data/zavazne-ukazatele-mmr-2021.csv",
+      "soubor_ke_stažení": "https://www.mmr.cz/MMR/media/MMR_MediaLib/Ministerstvo/Open%20data/zavazne-ukazatele-mmr-2024.csv",
+      "přístupové_url": "https://www.mmr.cz/MMR/media/MMR_MediaLib/Ministerstvo/Open%20data/zavazne-ukazatele-mmr-2024.csv",
       "typ_média": "http://www.iana.org/assignments/media-types/application/octet-stream",
       "formát": "http://publications.europa.eu/resource/authority/file-type/CSV"
     }
