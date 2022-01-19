@@ -41,7 +41,7 @@
       },
       "soubor_ke_stažení": "https://www.mmr.cz/cs/ministerstvo/urad/povinne-zverejnene-informace/otevrena-data-mmr/metadata-z-ud/2022",
       "přístupové_url": "https://www.mmr.cz/cs/ministerstvo/urad/povinne-zverejnene-informace/otevrena-data-mmr/metadata-z-ud/2022",
-      "typ_média": "http://www.iana.org/assignments/media-types/application/json",
+      "typ_média": "http://www.iana.org/assignments/media-types/text/json",
       "formát": "http://publications.europa.eu/resource/authority/file-type/JSON"
     }
   ]
