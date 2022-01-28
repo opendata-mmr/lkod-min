@@ -3,10 +3,10 @@
   "iri": "https://raw.githubusercontent.com/opendata-mmr/lkod-min/main/datové-sady/eud-2022.jsonld",
   "typ": "Datová sada",
   "název": {
-    "cs": "Metadata z úřední desky"
+    "cs": "Úřední deska"
   },
   "popis": {
-    "cs": "Základní metadata z úřední desky MMR"
+    "cs": "Úřední deska ministerstva pro místní rozvoj"
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
@@ -22,11 +22,23 @@
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UPDATE_CONT",
+  "dokumentace": "https://ofn.gov.cz/úřední-desky/2021-07-20/", 
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/GOVE"
   ],
   "koncept_euroVoc": [],
-  "kontaktní_bod": {},
+  "specifikace": [
+    "https://ofn.gov.cz/úřední-desky/",
+    "https://ofn.gov.cz/úřední-desky/2021-07-20/"
+  ],
+  "kontaktní_bod": {
+  "typ": "Organizace",
+        "jméno": {
+            "cs": "Ministerstvo pro místní rozvoj",
+            "en": "Ministry of Regional Development"
+        },
+        "e-mail": "mailto:opendata@mmr.cz"
+  },
   "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/66002222",
   "distribuce": [
     {
