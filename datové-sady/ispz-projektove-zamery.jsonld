@@ -43,7 +43,7 @@
       },
       "soubor_ke_stažení": "https://www.mmr.cz/cs/microsites/ispz/otevrena-data",
       "přístupové_url": "https://www.mmr.cz/cs/microsites/ispz/otevrena-data",
-      "typ_média": "http://www.iana.org/assignments/media-types/text-csv",
+      "typ_média": "http://www.iana.org/assignments/media-types/text/comma-separated-values",
       "formát": "http://publications.europa.eu/resource/authority/file-type/CSV"
     }
   ]
