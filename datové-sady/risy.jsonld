@@ -47,7 +47,7 @@
       },
       "soubor_ke_stažení": "https://www.risy.cz/cs/vyhledavace/obce.csv",
       "přístupové_url": "https://www.risy.cz/cs/vyhledavace/obce.csv",
-      "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
+      "typ_média": "http://www.iana.org/assignments/media-types/text/html",
       "formát": "http://publications.europa.eu/resource/authority/file-type/CSV"
     }
   ]
