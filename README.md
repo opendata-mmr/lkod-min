@@ -21,7 +21,7 @@ Ve formuláři staří v prvním kroku dole kliknout na "Načíst záznam z URL"
 ### IRI katalogu
 Při [registraci lokálního katalogu do NKOD](https://data.gov.cz/formulář/registrace-lokálního-katalogu) pak stačí zvolit jako Typ API lokálního katalogu `DCAT-AP Dokumenty` a do URL LKOD API vyplnit URL [souboru katalogu](katalog.jsonld) podobně, jako pro datové sady, tedy např. `https://raw.githubusercontent.com/opendata-mmr/lkod-min/main/katalog.jsonld`
 
-## GitHub Pages
+### GitHub Pages
 Pokud by takováto IRI datových sad nevyhovovala, lze tuto minimalistickou variantu LKOD rozšířit o [GitHub Pages](https://pages.github.com/), které umožňují použít vlastní IRI katalogu a datových sad, dokonce i s vlastní doménou, např. `https://data.organizace.cz/zdroj/datové-sady/1.jsonld`.
 
 GitHub pages zároveň umožňují hostovat i webovou prezentaci, jejíž součástí pak LKOD může být.
