@@ -1,9 +1,9 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://raw.githubusercontent.com/opendata-mmr/lkod-min/main/datové-sady/eud-2022.jsonld",
+  "iri": "https://raw.githubusercontent.com/opendata-mmr/lkod-min/main/datové-sady/eud-2023.jsonld",
   "typ": "Datová sada",
   "název": {
-    "cs": "Úřední deska 2022"
+    "cs": "Úřední deska 2023"
   },
   "popis": {
     "cs": "Úřední deska ministerstva pro místní rozvoj"
@@ -43,7 +43,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://raw.githubusercontent.com/opendata-mmr/lkod-min/main/datové-sady/eud-2022.jsonld/distribuce/0",
+      "iri": "https://raw.githubusercontent.com/opendata-mmr/lkod-min/main/datové-sady/eud-2023.jsonld/distribuce/0",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -51,8 +51,8 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://www.mmr.cz/cs/ministerstvo/urad/povinne-zverejnene-informace/otevrena-data-mmr/metadata-z-ud/2022",
-      "přístupové_url": "https://www.mmr.cz/cs/ministerstvo/urad/povinne-zverejnene-informace/otevrena-data-mmr/metadata-z-ud/2022",
+      "soubor_ke_stažení": "https://www.mmr.cz/cs/ministerstvo/urad/povinne-zverejnene-informace/otevrena-data-mmr/metadata-z-ud/2023",
+      "přístupové_url": "https://www.mmr.cz/cs/ministerstvo/urad/povinne-zverejnene-informace/otevrena-data-mmr/metadata-z-ud/2023",
       "typ_média": "http://www.iana.org/assignments/media-types/text/json",
       "formát": "http://publications.europa.eu/resource/authority/file-type/JSON"
     }
