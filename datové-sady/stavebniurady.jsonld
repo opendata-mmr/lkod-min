@@ -41,8 +41,8 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "http://www.uur.cz/images/7-ustav-uzemniho-rozvoje/otevrena-data-uur/stavebniurady.csv",
-      "přístupové_url": "http://www.uur.cz/images/7-ustav-uzemniho-rozvoje/otevrena-data-uur/stavebniurady.csv",
+      "soubor_ke_stažení": "https://www.uur.cz/media/laiicqqg/stavebniurady.csv",
+      "přístupové_url": "https://www.uur.cz/media/laiicqqg/stavebniurady.csv",
       "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
       "formát": "http://publications.europa.eu/resource/authority/file-type/CSV"
     }
