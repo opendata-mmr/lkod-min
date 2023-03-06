@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://databaze-strategie.cz/OpenData/v1.0/databaze-strategie.jsonld",
+  "iri": "https://raw.githubusercontent.com/opendata-mmr/lkod-min/main/datové-sady/databaze-strategie.jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Databáze strategií"
