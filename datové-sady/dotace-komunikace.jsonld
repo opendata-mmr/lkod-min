@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2022-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://raw.githubusercontent.com/opendata-mmr/lkod-min/main/datové-sady/dotace-komunikace-2023.jsonld",
+  "iri": "https://raw.githubusercontent.com/opendata-mmr/lkod-min/main/datové-sady/dotace-komunikace.jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Podpora obnovy místních komunikací (2023)"
@@ -33,7 +33,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://raw.githubusercontent.com/opendata-mmr/lkod-min/main/datové-sady/dotace-komunikace-2023.jsonld/distribuce/0",
+      "iri": "https://raw.githubusercontent.com/opendata-mmr/lkod-min/main/datové-sady/dotace-komunikace.jsonld/distribuce/0",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
