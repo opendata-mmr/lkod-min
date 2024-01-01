@@ -23,7 +23,7 @@
       "finance"
     ]
   },
-  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUALLY",
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/ECON"
   ],
