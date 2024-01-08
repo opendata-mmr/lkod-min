@@ -1,12 +1,12 @@
 {
   "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://raw.githubusercontent.com/opendata-mmr/lkod-min/main/datové-sady/dotace-komunikace.jsonld",
+  "iri": "https://raw.githubusercontent.com/opendata-mmr/lkod-min/main/datové-sady/index-2016-2022.jsonld",
   "typ": "Datová sada",
   "název": {
-    "cs": "Podpora obnovy místních komunikací (2023)"
+    "cs": "Index sociálního vyloučení 2016-2022"
   },
   "popis": {
-    "cs": "Seznam podpořených žádostí o dotaci za rok 2023"
+    "cs": "Index sociálního vyloučení je kvantitativní ukazatel míry a rozsahu sociálního vyloučení v jednotlivých obcích Česka. Po agregaci údaje z úrovni obci je možné stejným způsobem (pomocí 30bodové škály) vyhodnocovat i situaci na úrovni správních obvodů ORP a krajů."
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
@@ -15,12 +15,12 @@
   "prostorové_pokrytí": [],
   "klíčové_slovo": {
     "cs": [
-      "dotace",
-      "finance"
+      "index",
+      "social"
     ],
     "en": [
-      "finance",
-      "grants"
+      "index",
+      "social"
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
@@ -33,7 +33,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://raw.githubusercontent.com/opendata-mmr/lkod-min/main/datové-sady/dotace-komunikace.jsonld/distribuce/0",
+      "iri": "https://raw.githubusercontent.com/opendata-mmr/lkod-min/main/datové-sady/index-2016-2022/distribuce/0",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -41,8 +41,8 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://www.mmr.cz/MMR/media/MMR_MediaLib/Ministerstvo/Open%20data/Dotace_komunikace_2023.csv",
-      "přístupové_url": "https://www.mmr.cz/MMR/media/MMR_MediaLib/Ministerstvo/Open%20data/Dotace_komunikace_2023.csv",
+      "soubor_ke_stažení": "https://mmr.gov.cz/MMR/media/MMR_MediaLib/Ministerstvo/Open%20data/Index-socialniho-vylouceni-2016-22.csv",
+      "přístupové_url": "https://mmr.gov.cz/MMR/media/MMR_MediaLib/Ministerstvo/Open%20data/Index-socialniho-vylouceni-2016-22.csv",
       "typ_média": "http://www.iana.org/assignments/media-types/application/octet-stream",
       "formát": "http://publications.europa.eu/resource/authority/file-type/CSV"
     }
