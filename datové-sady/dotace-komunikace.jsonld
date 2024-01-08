@@ -1,5 +1,5 @@
 {
-  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2022-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "@context": "https://ofn.gov.cz/rozhraní-katalogů-otevřených-dat/2021-01-11/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
   "iri": "https://raw.githubusercontent.com/opendata-mmr/lkod-min/main/datové-sady/dotace-komunikace.jsonld",
   "typ": "Datová sada",
   "název": {
@@ -19,19 +19,16 @@
       "finance"
     ],
     "en": [
-      "grants",
-      "finance"
+      "finance",
+      "grants"
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
   "téma": [
-    "http://publications.europa.eu/resource/authority/data-theme/ECON"
+    "http://publications.europa.eu/resource/authority/data-theme/REGI"
   ],
   "koncept_euroVoc": [],
-  "kontaktní_bod": {
-    "typ": "Organizace",
-    "e-mail": "mailto:opendata@mmr.cz"
-  },
+  "kontaktní_bod": {},
   "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/66002222",
   "distribuce": [
     {
