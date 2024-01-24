@@ -51,8 +51,8 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://www.mmr.cz/cs/ministerstvo/urad/povinne-zverejnene-informace/otevrena-data-mmr/metadata-z-ud/2022",
-      "přístupové_url": "https://www.mmr.cz/cs/ministerstvo/urad/povinne-zverejnene-informace/otevrena-data-mmr/metadata-z-ud/2022",
+      "soubor_ke_stažení": "https://mmr.gov.cz/cs/ministerstvo/urad/povinne-zverejnene-informace/otevrena-data-mmr/metadata-z-ud/2022",
+      "přístupové_url": "https://mmr.gov.cz/cs/ministerstvo/urad/povinne-zverejnene-informace/otevrena-data-mmr/metadata-z-ud/2022",
       "typ_média": "http://www.iana.org/assignments/media-types/text/json",
       "formát": "http://publications.europa.eu/resource/authority/file-type/JSON"
     }
