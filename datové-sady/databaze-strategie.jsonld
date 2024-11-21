@@ -46,8 +46,8 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://databaze-strategie.cz/OpenData/v1.0/databaze-strategie.xml",
-      "přístupové_url": "https://databaze-strategie.cz/OpenData/v1.0/databaze-strategie.xml",
+      "soubor_ke_stažení": "https://www.databaze-strategie.cz/OpenData/v1.0/databaze-strategie.xml",
+      "přístupové_url": "https://www.databaze-strategie.cz/OpenData/v1.0/databaze-strategie.xml",
       "typ_média": "http://www.iana.org/assignments/media-types/application/xml",
       "formát": "http://publications.europa.eu/resource/authority/file-type/XML"
     }
