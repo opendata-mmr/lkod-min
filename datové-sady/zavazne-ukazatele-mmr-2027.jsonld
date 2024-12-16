@@ -41,7 +41,7 @@
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
       "soubor_ke_stažení": "https://mmr.gov.cz/MMR/media/MMR_MediaLib/Ministerstvo/Open%20data/zavazne-ukazatele-mmr-2027.csv",
-      "přístupové_url": "https://mmr.gov.cz/MMR/media/MMR_MediaLib/Ministerstvo/Open%20data/zavazne-ukazatele-mmr-2027_.csv",
+      "přístupové_url": "https://mmr.gov.cz/MMR/media/MMR_MediaLib/Ministerstvo/Open%20data/zavazne-ukazatele-mmr-2027.csv",
       "typ_média": "http://www.iana.org/assignments/media-types/application/octet-stream",
       "formát": "http://publications.europa.eu/resource/authority/file-type/CSV"
     }
