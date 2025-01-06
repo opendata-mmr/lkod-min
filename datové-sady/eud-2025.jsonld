@@ -1,0 +1,60 @@
+{
+  "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+  "iri": "https://raw.githubusercontent.com/opendata-mmr/lkod-min/main/datové-sady/eud-2025.jsonld",
+  "typ": "Datová sada",
+  "název": {
+    "cs": "Úřední deska 2025"
+  },
+  "popis": {
+    "cs": "Úřední deska ministerstva pro místní rozvoj"
+  },
+  "prvek_rúian": [
+    "https://linked.cuzk.cz/resource/ruian/stat/1"
+  ],
+  "geografické_území": [],
+  "prostorové_pokrytí": [],
+  "klíčové_slovo": {
+    "cs": [
+      "úřední deska"
+    ],
+    "en": [
+      "e-board"
+    ]
+  },
+  "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/UPDATE_CONT",
+  "dokumentace": "https://ofn.gov.cz/úřední-desky/2021-07-20/",
+  "téma": [
+    "http://publications.europa.eu/resource/authority/data-theme/GOVE"
+  ],
+  "koncept_euroVoc": [],
+  "specifikace": [
+    "https://ofn.gov.cz/úřední-desky/",
+    "https://ofn.gov.cz/úřední-desky/2021-07-20/"
+  ],
+  "kontaktní_bod": {
+  "typ": "Organizace",
+        "jméno": {
+            "cs": "Ministerstvo pro místní rozvoj",
+            "en": "Ministry of Regional Development"
+        },
+        "e-mail": "mailto:opendata@mmr.gov.cz"
+  },
+  "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/66002222",
+  "distribuce": [
+    {
+      "typ": "Distribuce",
+      "iri": "https://raw.githubusercontent.com/opendata-mmr/lkod-min/main/datové-sady/eud-2024.jsonld/distribuce/0",
+      "podmínky_užití": {
+        "typ": "Specifikace podmínek užití",
+        "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
+        "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",
+        "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+        "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+      },
+      "soubor_ke_stažení": "https://mmr.gov.cz/cs/ministerstvo/urad/povinne-zverejnene-informace/otevrena-data-mmr/metadata-z-ud/2025",
+      "přístupové_url": "https://mmr.gov.cz/cs/ministerstvo/urad/povinne-zverejnene-informace/otevrena-data-mmr/metadata-z-ud/2025",
+      "typ_média": "http://www.iana.org/assignments/media-types/text/json",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/JSON"
+    }
+  ]
+}
