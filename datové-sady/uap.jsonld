@@ -1,0 +1,53 @@
+{
+    "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
+    "iri": "https://raw.githubusercontent.com/opendata-mmr/lkod-min/main/datové-sady/uap.jsonld",
+    "typ": "Datová sada",
+    "název": {"cs": "ÚAP - vybrané jevy z centrální databáze"},
+    "popis": {"cs": "Databáze územně analytických podkladů je vedena Ministerstvem pro místní rozvoj a obsahuje sledované jevy podle přílohy č. 1 vyhlášky č. 157/2024 Sb. Tato sada obsahuje jevy databáze, které je možné v současné době publikovat formou otevřených dat. Jedná se zejména o jevy, které jsou výstupem z územně plánovací činnosti (zastavěné území, územní systém ekologické stability, sídelní struktura atd.) a data od vybraných poskytovatelů údajů o území (Agentura ochrany přírody a krajiny ČR). Jedná o informativní data, databáze ÚAP je v národním geoportálu územního plánování v pilotním provozu a probíhá ověřování správnosti dat, pro získání dat databáze ÚAP pro územně plánovací činnost a pro rozhodování v území je nutné se obrátit na příslušného pořizovatele"},
+    "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/66002222",
+    "téma": ["http://publications.europa.eu/resource/authority/data-theme/ENVI","http://publications.europa.eu/resource/authority/data-theme/TRAN","http://publications.europa.eu/resource/authority/data-theme/GOVE"],
+    "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/AS_NEEDED",
+    "klíčové_slovo": {
+        "cs": [
+            "ÚAP",
+            "územní plánovaní",
+            "územně analytické podklady",
+            "zastavěné území"
+        ]
+    },
+    "prvek_rúian": ["https://linked.cuzk.cz/resource/ruian/stat/1"],
+    "kontaktní_bod": {
+        "typ": "Organizace",
+        "jméno": {
+            "cs": "Ministerstvo pro místni rozvoj ČR"
+        },
+        "e-mail": "mailto:Katerina.Vrbova@mmr.gov.cz"
+    },
+    "dokumentace": "https://jsduap.tmapserver.cz/data-model.data-model/",
+    "specifikace": ["https://jsduap.tmapserver.cz/data-model.format/"],
+    "koncept_euroVoc": ["http://eurovoc.europa.eu/100244","http://eurovoc.europa.eu/100243","http://eurovoc.europa.eu/100242","http://eurovoc.europa.eu/4619","http://eurovoc.europa.eu/5433"],
+    "právní_předpis": ["https://www.e-sbirka.cz/eli/cz/sb/2024/157/2024-07-01"],
+    "distribuce": [
+        {
+            "iri": "https://github.com/opendata-mmr/lkod-min/main/datové-sady/uap.jsonld/distribuce/1",
+            "typ": "Distribuce",
+            "podmínky_užití": {
+                "typ": "Specifikace podmínek užití",
+                "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",                
+                "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
+                "databáze_jako_autorské_dílo": "https://data.gov.cz/podmínky-užití/není-autorskoprávně-chráněnou-databází/",                
+                "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
+            },
+            "přístupové_url": "https://uzemniplanovani.gov.cz/OPENDATA_UAP_CR.zip",
+            "soubor_ke_stažení": "https://uzemniplanovani.gov.cz/OPENDATA_UAP_CR.zip",
+            "formát": "http://publications.europa.eu/resource/authority/file-type/GPKG",
+            "typ_média": "http://www.iana.org/assignments/media-types/application/geopackage+sqlite3",
+            "schéma": "https://jsduap.tmapserver.cz/data-model.format/download?file=structures",
+            "typ_média_komprese": "http://www.iana.org/assignments/media-types/application/zip",
+            "typ_média_balíčku": "http://www.iana.org/assignments/media-types/application/zip",
+            "název": {                
+                "cs": "Geopackage distribuce v ZIP souboru"
+            }
+        }
+    ]
+}
