@@ -1,9 +1,9 @@
 {
   "@context": "https://ofn.gov.cz/dcat-ap-cz-rozhraní-katalogů-otevřených-dat/2024-05-28/kontexty/rozhraní-katalogů-otevřených-dat.jsonld",
-  "iri": "https://raw.githubusercontent.com/opendata-mmr/lkod-min/main/datové-sady/index-2016-2023.jsonld",
+  "iri": "https://raw.githubusercontent.com/opendata-mmr/lkod-min/main/datové-sady/index.jsonld",
   "typ": "Datová sada",
   "název": {
-    "cs": "Index sociálního vyloučení 2016-2023"
+    "cs": "Index sociálního vyloučení"
   },
   "popis": {
     "cs": "Index sociálního vyloučení je kvantitativní ukazatel míry a rozsahu sociálního vyloučení v jednotlivých obcích Česka. Po agregaci údaje z úrovni obci je možné stejným způsobem (pomocí 30bodové škály) vyhodnocovat i situaci na úrovni správních obvodů ORP a krajů."
@@ -13,6 +13,11 @@
   ],
   "geografické_území": [],
   "prostorové_pokrytí": [],
+  "časové_pokrytí": {
+    "typ": "Časový interval",
+    "začátek": "2016-01-01",
+    "konec": "2024-12-31"
+  },
   "klíčové_slovo": {
     "cs": [
       "sociální vyloučení",
@@ -30,7 +35,7 @@
     ]
   },
   "periodicita_aktualizace": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
-  "dokumentace": "https://www.socialni-zaclenovani.cz/wp-content/uploads/Metodika-pro-posouzen%C3%AD-soc.-vylou%C4%8Den%C3%AD.pdf",
+  "dokumentace": "https://mmr.gov.cz/cs/microsites/socialni-zaclenovani/index-socialniho-vylouceni-(1)/metodicke-dokumenty",
   "téma": [
     "http://publications.europa.eu/resource/authority/data-theme/REGI"
   ],
@@ -49,7 +54,7 @@
   "distribuce": [
     {
       "typ": "Distribuce",
-      "iri": "https://raw.githubusercontent.com/opendata-mmr/lkod-min/main/datové-sady/index-2016-2023/distribuce/0/distribuce/0",
+      "iri": "https://raw.githubusercontent.com/opendata-mmr/lkod-min/main/datové-sady/index/distribuce/0/distribuce/0",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -60,8 +65,8 @@
       "právní_předpis": [
         "https://www.e-sbirka.cz/eli/cz/sb/1999/106/2024-01-01/dokument/norma/cast_1/par_5a/odst_1"
       ],
-      "soubor_ke_stažení": "https://mmr.gov.cz/MMR/media/MMR_MediaLib/Ministerstvo/Open%20data/Index-socialniho-vylouceni-2016-23.csv",
-      "přístupové_url": "https://mmr.gov.cz/MMR/media/MMR_MediaLib/Ministerstvo/Open%20data/Index-socialniho-vylouceni-2016-23.csv",
+      "soubor_ke_stažení": "https://mmr.gov.cz/MMR/media/MMR_MediaLib/Ministerstvo/Open%20data/Index-socialniho-vylouceni.csv",
+      "přístupové_url": "https://mmr.gov.cz/MMR/media/MMR_MediaLib/Ministerstvo/Open%20data/Index-socialniho-vylouceni.csv",
       "typ_média": "http://www.iana.org/assignments/media-types/application/octet-stream",
       "formát": "http://publications.europa.eu/resource/authority/file-type/CSV"
     }
