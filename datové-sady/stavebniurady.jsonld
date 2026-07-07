@@ -6,7 +6,9 @@
     "cs": "Správní obvody stavebních úřadů"
   },
   "popis": {
-    "cs": "Datová sada stavebních úřadů obsahuje seznam obcí České republiky a jejich příslušné stavební úřady obecné, speciální (stavební úřady pro vodní díla a dopravní stavby a komunikace) a úřady územního plánování. Pro grafické znázornění je možné data z tabulky připojit pomocí kódu obcí na vektorová data obcí od ČÚZK (RUIAN)."
+    "cs": "Datová sada stavebních úřadů obsahuje seznam obcí České republiky a jejich příslušné stavební úřady obecné, speciální (stavební úřady pro vodní díla a dopravní stavby a komunikace) a úřady územního plánování. Pro grafické znázornění je možné data z tabulky připojit pomocí kódu obcí na vektorová data obcí od ČÚZK (RUIAN).
+    
+    Tato data jsou propojena s grafickou vrstvou obcí v mapové aplikaci Ústavu územního rozvoje. Mapová aplikace je volně dostupná k prohlížení na Mapovém portálu Ústavu územního rozvoje."
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
@@ -28,7 +30,13 @@
     "http://publications.europa.eu/resource/authority/data-theme/REGI"
   ],
   "koncept_euroVoc": [],
-  "kontaktní_bod": {},
+    "kontaktní_bod": {
+    "typ": "Organizace",
+    "jméno": {
+      "cs": "Ing. arch. Hana Šimková, Ph.D."
+    },
+    "e-mail": "mailto:simkova@uur.cz"
+  },
   "poskytovatel": "https://rpp-opendata.egon.gov.cz/odrpp/zdroj/orgán-veřejné-moci/66002222",
   "distribuce": [
     {
@@ -41,8 +49,8 @@
         "databáze_chráněná_zvláštními_právy": "https://data.gov.cz/podmínky-užití/není-chráněna-zvláštním-právem-pořizovatele-databáze/",
         "osobní_údaje": "https://data.gov.cz/podmínky-užití/neobsahuje-osobní-údaje/"
       },
-      "soubor_ke_stažení": "https://www.uur.cz/media/laiicqqg/stavebniurady.csv",
-      "přístupové_url": "https://www.uur.cz/media/laiicqqg/stavebniurady.csv",
+      "soubor_ke_stažení": "https://www.uur.cz/media/julb3ryz/obecni_stavebni_urady_2026xlsx-su.csv",
+      "přístupové_url": "https://www.uur.cz/media/julb3ryz/obecni_stavebni_urady_2026xlsx-su.csv",
       "typ_média": "http://www.iana.org/assignments/media-types/text/csv",
       "formát": "http://publications.europa.eu/resource/authority/file-type/CSV"
     }
