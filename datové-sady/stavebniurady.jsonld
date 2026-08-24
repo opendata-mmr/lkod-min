@@ -6,9 +6,7 @@
     "cs": "Správní obvody stavebních úřadů"
   },
   "popis": {
-    "cs": "Datová sada stavebních úřadů obsahuje seznam obcí České republiky a jejich příslušné stavební úřady obecné, speciální (stavební úřady pro vodní díla a dopravní stavby a komunikace) a úřady územního plánování. Pro grafické znázornění je možné data z tabulky připojit pomocí kódu obcí na vektorová data obcí od ČÚZK (RUIAN).
-    
-    Tato data jsou propojena s grafickou vrstvou obcí v mapové aplikaci Ústavu územního rozvoje. Mapová aplikace je volně dostupná k prohlížení na Mapovém portálu Ústavu územního rozvoje."
+    "cs": "Datová sada stavebních úřadů obsahuje seznam obcí České republiky a jejich příslušné stavební úřady obecné, speciální (stavební úřady pro vodní díla a dopravní stavby a komunikace) a úřady územního plánování. Pro grafické znázornění je možné data z tabulky připojit pomocí kódu obcí na vektorová data obcí od ČÚZK (RUIAN).\n\nTato data jsou propojena s grafickou vrstvou obcí v mapové aplikaci Ústavu územního rozvoje. Mapová aplikace je volně dostupná k prohlížení na Mapovém portálu Ústavu územního rozvoje."
   },
   "prvek_rúian": [
     "https://linked.cuzk.cz/resource/ruian/stat/1"
