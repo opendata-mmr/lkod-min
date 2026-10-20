@@ -3,7 +3,7 @@
   "iri": "https://raw.githubusercontent.com/opendata-mmr/lkod-min/main/datové-sady/DNS-2025.jsonld/distribuce/0",
   "typ": "Datová sada",
   "název": {
-    "cs": "Veřejné zakázky za rok 2025"
+    "cs": "Dynamický nákupní systém 2025"
   },
   "popis": {
     "cs": "Data o trhu veřejných zakázek v ČR za rok 2025. Zdrojem uveřejněných dat je Registr veřejných zakázek, který vede centrální evidenci dat o veřejných zakázkách a zadávacích postupech na základě informací poskytnutých Věstníkem veřejných zakázek a certifikovanými elektronickými nástroji."
