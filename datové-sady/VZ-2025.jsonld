@@ -1,6 +1,6 @@
 {
   "@context": "https://ofn.gov.cz/dcat-ap-cz-otevřená-data/2026-09-23/datová-sada/kontext.jsonld",
-  "iri": "https://raw.githubusercontent.com/opendata-mmr/lkod-min/main/datové-sady/VZ-2025.jsonld/distribuce/0",
+  "iri": "https://raw.githubusercontent.com/opendata-mmr/lkod-min/main/datové-sady/VZ-2025.jsonld",
   "typ": "Datová sada",
   "název": {
     "cs": "Veřejné zakázky za rok 2025"
@@ -39,7 +39,7 @@
       "právní_předpis": [
         "https://www.e-sbirka.cz/eli/cz/sb/1999/106/2025-08-19"
       ],
-      "iri": "https://raw.githubusercontent.com/opendata-mmr/lkod-min/main/datové-sady/VZ-2025.jsonld/distribuce/0/distribuce/0",
+      "iri": "https://raw.githubusercontent.com/opendata-mmr/lkod-min/main/datové-sady/VZ-2025.jsonld/distribuce/0",
       "podmínky_užití": {
         "typ": "Specifikace podmínek užití",
         "autorské_dílo": "https://data.gov.cz/podmínky-užití/neobsahuje-autorská-díla/",
@@ -49,8 +49,8 @@
       },
       "soubor_ke_stažení": "https://isvz.nipez.cz/sites/default/files/content/opendata-rvz/VZ-2025_rocni.zip",
       "přístupové_url": "https://isvz.nipez.cz/sites/default/files/content/opendata-rvz/VZ-2025_rocni.zip",
-      "typ_média": "http://www.iana.org/assignments/media-types/application/json",
-      "formát": "http://publications.europa.eu/resource/authority/file-type/JSON"
+      "typ_média": "http://www.iana.org/assignments/media-types/application/zip",
+      "formát": "http://publications.europa.eu/resource/authority/file-type/ZIP"
     }
   ]
 }
